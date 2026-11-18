@@ -1,0 +1,11 @@
+DHANU - Computer Science Engineering Student
+
+SKILLS
+Python, Java, SQL, Git, GitHub, HTML, CSS, Flask, Data Structures and Algorithms, OOPs, Linux
+
+PROJECTS
+- File Organizer: Python automation script with unit testing using pytest
+- URL Shortener: Flask web app with REST API and SQLite database
+
+EDUCATION
+B.E. Computer Science Engineering, third year

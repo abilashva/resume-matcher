@@ -1,0 +1,13 @@
+Software Engineer Intern
+
+We are looking for an intern to build backend services and automate workflows.
+
+Requirements:
+- Strong Python and SQL skills
+- Experience building REST APIs with Flask or Django
+- Familiarity with Git, Docker and CI/CD pipelines
+- Knowledge of data structures and algorithms
+- Good communication skills, comfortable in an Agile team
+
+You will write clean code, review code with teammates, and debug backend services.
+Backend services and automation experience is a plus. Testing code is expected.
